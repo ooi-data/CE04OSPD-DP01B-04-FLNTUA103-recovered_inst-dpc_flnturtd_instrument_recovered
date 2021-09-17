@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE04OSPD-DP01B-04-FLNTUA103-recovered_inst-dpc_flnturtd_instrument_recovered
-last_request: '2021-08-01T01:31:21.125670Z'
+last_request: '2021-09-17T23:51:23.191034Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPD-DP01B-04-FLNTUA103-recovered_inst-dpc_flnturtd_instrument_recovered/main/history/response.json
-status: failed
+status: pending
